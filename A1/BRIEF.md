@@ -1,3 +1,13 @@
+---
+layout: default
+title: Assignment Brief
+parent: "A1: NumPy Array Manipulation for 2D Pattern Generation"
+grand_parent: Portfolio
+nav_order: 1
+nav_exclude: false
+search_exclude: false
+---
+
 # Assignment 1: NumPy Array Manipulation for 2D Pattern Generation
 
 ## Objective

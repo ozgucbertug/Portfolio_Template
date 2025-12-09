@@ -1,10 +1,14 @@
 ---
 layout: default
-title: Assignment 1
-nav_order: 2
-parent: Home
+title: "A1: NumPy Array Manipulation for 2D Pattern Generation"
+parent: Portfolio
+nav_order: 1
+has_children: true
 permalink: /A1/
+search_exclude: false
+nav_exclude: false
 ---
 
-{% capture brief %}{% include_relative BRIEF.md %}{% endcapture %}
-{{ brief | markdownify }}
+<meta http-equiv="refresh" content="0; url={{ '/A1/README.html' | relative_url }}">
+
+Redirecting to Project Documentation. If you are not redirected automatically, [open README]({{ '/A1/README.html' | relative_url }}).

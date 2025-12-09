@@ -1,3 +1,13 @@
+---
+layout: default
+title: Project Documentation
+parent: "A2: Exploring Fractals through Recursive Geometric Patterns"
+grand_parent: Portfolio
+nav_order: 2
+nav_exclude: false
+search_exclude: false
+---
+
 # Assignment 2: Exploring Fractals through Recursive Geometric Patterns
 
 This repository contains the starter materials for **Assignment 2: Exploring Fractals through Recursive Geometric Patterns**.

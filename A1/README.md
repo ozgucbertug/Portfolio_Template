@@ -1,3 +1,13 @@
+---
+layout: default
+title: Project Documentation
+parent: "A1: NumPy Array Manipulation for 2D Pattern Generation"
+grand_parent: Portfolio
+nav_order: 2
+nav_exclude: false
+search_exclude: false
+---
+
 # Assignment 1: NumPy Array Manipulation for 2D Pattern Generation
 
 This repository contains the starter materials for **Assignment 1: NumPy Array Manipulation for 2D Pattern Generation**.

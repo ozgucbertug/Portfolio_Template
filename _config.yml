@@ -1,33 +1,12 @@
-title: Portfolio Template
-description: Computational design assignments
+title: Your Name
+description: ACD-E25 Portfolio
+color_scheme: light
 
+# Do not modify parameters below:
 remote_theme: just-the-docs/just-the-docs
-baseurl: "/Portfolio_Template"
+baseurl: "/ACD-Portfolio"
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
 
 search_enabled: true
-color_scheme: light
-
-# Hide helper Markdown files from the sidebar/search; only the folder index pages should appear unless added to custom nav.
-defaults:
-  - scope:
-      path: ""
-      glob: "A[0-9]/TEMPLATE.md"
-    values:
-      nav_exclude: true
-      search_exclude: true
-  - scope:
-      path: ""
-      glob: "A[0-9]/README.md"
-    values:
-      nav_exclude: true
-      search_exclude: true
-  - scope:
-      path: ""
-      glob: "A[0-9]/BRIEF.md"
-    values:
-      nav_exclude: true
-      search_exclude: true
